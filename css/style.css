@@ -46,7 +46,8 @@ thead>tr:first-child{
 }
 
 img{
-	
+	max-width: 100%;
+    height: auto;
 }
 body{
     background-color: aquamarine;
@@ -59,4 +60,10 @@ body{
 p{
  text-align: justify;
  margin-left: 15px;
+}
+.jobb{
+    float: right;
+}
+.bal{
+    float:left;
 }
